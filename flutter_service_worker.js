@@ -10,7 +10,7 @@ const RESOURCES = {
 "assets/NOTICES": "4e3390200e32487215a84ae4a9077737",
 "assets/shaders/ink_sparkle.frag": "0cfae77e432d12ec44627f8d9eacbc65",
 "assets/AssetManifest.json": "99914b932bd37a50b983c5e7c90ae93b",
-"manifest.json": "fc5d443fd684bfffa40c4ffcd6b53f88",
+"manifest.json": "f898cedb08113c27e53b4206d6a67a25",
 "canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
 "canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62",
 "canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
@@ -21,8 +21,8 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "version.json": "11e1a177d57c5da2bc6e3a6acc3010f4",
-"index.html": "4ef4a31d934f1e863c2454a983d9c5e4",
-"/": "4ef4a31d934f1e863c2454a983d9c5e4"
+"index.html": "75bae5f5d5daf14407fefb1e2c5e4c49",
+"/": "75bae5f5d5daf14407fefb1e2c5e4c49"
 };
 
 // The application shell files that are downloaded before a service worker can
